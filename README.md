@@ -19,6 +19,8 @@ This project presents an interactive E-Commerce Sales Dashboard built using Powe
 - Dashboard screenshot
 - Project report
 - Dataset
+## 📸 Dashboard Preview
 
-## Project Link
-Portfolio: https://yourusername.github.io/simran-portfolio
+This dashboard provides insights into sales, profit, customer segments, and regional performance.
+
+![E-Commerce Dashboard](dashboard.png)
